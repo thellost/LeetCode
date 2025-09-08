@@ -1,6 +1,15 @@
 class Solution {
 
-    private String[][] string_letter  = {{"a","b","c"}, {"d","e","f"},{"g","h","i"},{"j","k","l"},{"m","n","o"},{"p","q","r","s"},{"t","u","v"},{"w","x","y","z"}};
+    private String[][] string_letter  = {
+        {"a","b","c"}, 
+        {"d","e","f"},
+        {"g","h","i"},
+        {"j","k","l"},
+        {"m","n","o"},
+        {"p","q","r","s"},
+        {"t","u","v"},
+        {"w","x","y","z"}
+        };
     private int[] string_base;
     public List<String> letterCombinations(String digits) {
         ArrayList<String> list=new ArrayList<String>();//Creating arraylist  
@@ -13,24 +22,29 @@ class Solution {
             list.add(letter);
         }
         } else {
-            int total_length = 1;
-             this.string_base = new int[digits.length()];
+            //23
+            int total_length = 1; // 9
+            this.string_base = new int[digits.length()]; //[3,3]
+
             for (int i = 0 ; i < digits.length(); i++){
                 int length = string_from_digits(digits.charAt(i)).length;
                 total_length *= length;
                  this.string_base[i] = length;
 
             }
-            
+
             int idx = 0;
             String combination = "";
-             for (int z = 0; z < total_length; z++){
+
+             for (int z = 0; z < total_length; z++) //9 loop
+             {
                 combination = "";
                 
-                for (int i = 0 ; i < digits.length(); i++){
+                for (int i = 0 ; i < digits.length(); i++){ //23
                     combination += string_from_digits(digits.charAt(i))[get_counter(idx)[i]];
                     
                 }
+
                 idx += 1;
                 list.add(combination);
             }
