@@ -12,8 +12,7 @@ class Solution {
                 rowString[i]  = ""; // initialize with empty string
         }
          for (int i = 0; i < s.length(); i++){
-            System.out.println(i);
-            rowString[idx] = rowString[idx] + (s.charAt(i));
+            rowString[idx] += (s.charAt(i));
             idx += dir;
             if (idx == numRows-1 || idx == 0) {
                 dir *= -1; // reverse direction
