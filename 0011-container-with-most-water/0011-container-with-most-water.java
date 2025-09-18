@@ -8,7 +8,7 @@ class Solution {
         int area;
         for (int left = 0; left < height.length ; left++ ){
             
-            area = Math.min(height[left], height[right]) * Math.abs(right-left);
+            area = Math.min(height[left], height[right]) * (right-left);
             if(area > largest){
                 largest = area;
             }
@@ -16,7 +16,7 @@ class Solution {
             while(height[left] > height[right]){
                 right--;
 
-                area = Math.min(height[left], height[right]) * Math.abs(right-left);
+                area = Math.min(height[left], height[right]) * (right-left);
                 if(area > largest){
                     largest = area;
                 }
