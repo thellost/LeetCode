@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/thellost/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/thellost/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/thellost/LeetCode/tree/master/0011-container-with-most-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,9 +60,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/thellost/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/thellost/LeetCode/tree/master/0011-container-with-most-water) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/thellost/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/thellost/LeetCode/tree/master/0010-regular-expression-matching) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/thellost/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
