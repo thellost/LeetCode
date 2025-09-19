@@ -15,7 +15,7 @@ class Solution {
                 highest_index = i;
             }
         }
-        System.out.println(highest + " index :" + highest_index);
+        // System.out.println(highest + " index :" + highest_index);
         for(int left = 0; left < highest_index; left++){
 
             while(right < height.length && height[right] < height[left]){
@@ -25,7 +25,7 @@ class Solution {
             left = right - 1;
             
             right += 1;
-            System.out.println("End valley !");
+            // System.out.println("End valley !");
 
             
         }
