@@ -13,7 +13,9 @@ class Solution {
 
             while(j<k){
                 int total = nums[i] + nums[j] + nums[k];
-
+                if(nums[k] < Math.abs(nums[i]/2)){
+                    break;
+                }
                 if ( total> 0){
                     k--;
                 } else if ( total < 0){
