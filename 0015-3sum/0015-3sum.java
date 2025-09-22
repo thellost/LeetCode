@@ -23,6 +23,9 @@ class Solution {
                     r = nums.length - 1;
                     while (l < r) {
                         sum = nums[i] + nums[l] + nums[r];
+                        if(nums[r] < Math.abs(nums[i]/2)){
+                            break;
+                        }
                         if (sum == target) {
                             List<Integer> t = new ArrayList<>();
                             t.add(nums[i]);
