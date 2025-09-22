@@ -21,7 +21,6 @@ class Solution {
                 } else if ( total < 0){
                     j++;
                 } else {
-                    System.out.println(" " + i + " " + j + " "  + k);
                     result.add(Arrays.asList(nums[i], nums[j], nums[k]));
                     j++;
                     while(nums[j] == nums[j-1] && j<k){
