@@ -41,7 +41,6 @@ class Solution {
             
             
         }
-        System.out.println(length);
         return head;
     }
 }
