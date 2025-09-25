@@ -15,10 +15,7 @@ class Solution {
         ListNode res = head;
 
         while(list1 != null || list2 != null){
-            int a = (list1 != null) ? list1.val : 101;
-            int b = (list2 != null) ? list2.val : 101;
-            
-            if (a < b ){
+            if (((list1 != null) ? list1.val : 101) < ( (list2 != null) ? list2.val : 101) ){
                 head.next = list1;
                 head = head.next;
                 list1 = list1.next;
