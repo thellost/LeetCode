@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/thellost/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/thellost/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/thellost/LeetCode/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/thellost/LeetCode/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/thellost/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/thellost/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/thellost/LeetCode/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/thellost/LeetCode/tree/master/0067-add-binary) |
 ## Backtracking
 |  |
 | ------- |
@@ -110,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/thellost/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/thellost/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/thellost/LeetCode/tree/master/0018-4sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/thellost/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/thellost/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
