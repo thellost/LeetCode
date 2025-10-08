@@ -29,19 +29,11 @@ class Solution {
             result.add(curRoute);
             return;
         }
-
-
         if(p.left != null){
-            
-            String num = String.valueOf(p.left.val);
-            String newRoute = curRoute + "->" + num;
-            isTrue(p.left, newRoute, result);
+            isTrue(p.left, curRoute + "->" + p.left.val, result);
         }
         if(p.right != null){
-            
-            String num = String.valueOf(p.right.val);
-            String newRoute = curRoute + "->" + num;
-            isTrue(p.right, newRoute, result);
+             isTrue(p.right, curRoute + "->" + p.right.val, result);
         }
 
         
