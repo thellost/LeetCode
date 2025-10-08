@@ -18,24 +18,24 @@ class Solution {
     ArrayList<String> result = new ArrayList<String>();
     
     public List<String> binaryTreePaths(TreeNode root) {
-        isTrue(root, Integer.toString(root.val));
+        isTrue(root, "");
         return result;
     }
 
     
     void isTrue(TreeNode p, String curRoute){
 
-        
+        if(p==null){
+            return;
+        }
+        curRoute = curRoute + p.val;
         if(p.left == null && p.right == null){
             result.add(curRoute);
             return;
         }
-        if(p.left != null){
-            isTrue(p.left, curRoute + "->" + Integer.toString(p.left.val));
-        }
-        if(p.right != null){
-             isTrue(p.right, curRoute + "->" + Integer.toString(p.right.val));
-        }
+        curRoute += "->";
+            isTrue(p.left, curRoute);
+             isTrue(p.right, curRoute);
 
         
     }
