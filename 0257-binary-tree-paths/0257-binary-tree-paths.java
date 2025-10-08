@@ -18,7 +18,7 @@ class Solution {
     ArrayList<String> result = new ArrayList<String>();
     
     public List<String> binaryTreePaths(TreeNode root) {
-        isTrue(root, String.valueOf(root.val));
+        isTrue(root, Integer.toString(root.val));
         return result;
     }
 
@@ -31,10 +31,10 @@ class Solution {
             return;
         }
         if(p.left != null){
-            isTrue(p.left, curRoute + "->" + p.left.val);
+            isTrue(p.left, curRoute + "->" + Integer.toString(p.left.val));
         }
         if(p.right != null){
-             isTrue(p.right, curRoute + "->" + p.right.val);
+             isTrue(p.right, curRoute + "->" + Integer.toString(p.right.val));
         }
 
         
