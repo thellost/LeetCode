@@ -15,14 +15,15 @@
  */
  
 class Solution {
+    ArrayList<String> result = new ArrayList<String>();
+    
     public List<String> binaryTreePaths(TreeNode root) {
-        ArrayList<String> result = new ArrayList<String>();
-        isTrue(root, String.valueOf(root.val), result);
+        isTrue(root, String.valueOf(root.val));
         return result;
     }
 
     
-    void isTrue(TreeNode p, String curRoute,List<String> result){
+    void isTrue(TreeNode p, String curRoute){
 
         
         if(p.left == null && p.right == null){
@@ -30,10 +31,10 @@ class Solution {
             return;
         }
         if(p.left != null){
-            isTrue(p.left, curRoute + "->" + p.left.val, result);
+            isTrue(p.left, curRoute + "->" + p.left.val);
         }
         if(p.right != null){
-             isTrue(p.right, curRoute + "->" + p.right.val, result);
+             isTrue(p.right, curRoute + "->" + p.right.val);
         }
 
         
