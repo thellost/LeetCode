@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/thellost/LeetCode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thellost/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/thellost/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0119-pascals-triangle-ii](https://github.com/thellost/LeetCode/tree/master/0119-pascals-triangle-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/thellost/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/thellost/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/thellost/LeetCode/tree/master/0070-climbing-stairs) |
+| [0119-pascals-triangle-ii](https://github.com/thellost/LeetCode/tree/master/0119-pascals-triangle-ii) |
 ## Greedy
 |  |
 | ------- |
