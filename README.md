@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/thellost/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/thellost/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/thellost/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/thellost/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/thellost/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/thellost/LeetCode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/thellost/LeetCode/tree/master/0112-path-sum) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/thellost/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/thellost/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/thellost/LeetCode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/thellost/LeetCode/tree/master/0112-path-sum) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/thellost/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/thellost/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/thellost/LeetCode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/thellost/LeetCode/tree/master/0112-path-sum) |
