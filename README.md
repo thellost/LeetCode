@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/thellost/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/thellost/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/thellost/LeetCode/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/thellost/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/thellost/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/thellost/LeetCode/tree/master/0070-climbing-stairs) |
 ## Recursion
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thellost/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/thellost/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/thellost/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/thellost/LeetCode/tree/master/0066-plus-one) |
 | [0119-pascals-triangle-ii](https://github.com/thellost/LeetCode/tree/master/0119-pascals-triangle-ii) |
 ## Hash Table
 |  |
