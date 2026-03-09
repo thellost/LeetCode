@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/thellost/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/thellost/LeetCode/tree/master/0066-plus-one) |
 | [0119-pascals-triangle-ii](https://github.com/thellost/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/thellost/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/thellost/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/thellost/LeetCode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/thellost/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/thellost/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/thellost/LeetCode/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
