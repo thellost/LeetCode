@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/thellost/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/thellost/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/thellost/LeetCode/tree/master/1013-fibonacci-number) |
+| [1025-divisor-game](https://github.com/thellost/LeetCode/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/thellost/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thellost/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/thellost/LeetCode/tree/master/1013-fibonacci-number) |
+| [1025-divisor-game](https://github.com/thellost/LeetCode/tree/master/1025-divisor-game) |
 ## Greedy
 |  |
 | ------- |
@@ -190,4 +192,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/thellost/LeetCode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/thellost/LeetCode/tree/master/0112-path-sum) |
 | [0257-binary-tree-paths](https://github.com/thellost/LeetCode/tree/master/0257-binary-tree-paths) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/thellost/LeetCode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/thellost/LeetCode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
